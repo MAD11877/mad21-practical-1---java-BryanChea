@@ -10,6 +10,7 @@ public class Question4
       for(int k = 0; k <= i; k++){
         System.out.print("*");
       }
-      System.out.println();    
+      System.out.println();
+    }
   }
 }
